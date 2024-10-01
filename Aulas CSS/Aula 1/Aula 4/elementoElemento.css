@@ -1,0 +1,9 @@
+P{
+    color: rgb(0, 0, 0);
+}
+ul p{
+    color: blue;
+}
+li,p, .cachorro, #gato{
+    text-shadow: 10px 5px 5px rgb(0, 0, 0);
+}

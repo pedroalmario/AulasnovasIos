@@ -1,0 +1,39 @@
+*{
+    font-size: 20px;
+}
+
+h2 {
+    /* font-size: 2cm;
+font-size: 2in; */
+    font-size: 20px;
+    display: none;
+}
+
+p {
+    font-size: 1.5;
+}
+
+ul {
+    /* list-style: none; remove o marcador*/
+    font-size: 2em;
+}
+li{
+    font-size: 3rem;
+    /* 3*20px*/
+}
+
+/*
+unidades de medida
+2em- Valor numérico com unidade, seu tamanho está 
+relacionado ao tamanho do elemento superior. Por 
+exemplo, se o elemento superior tiver um tamanho de 
+16px, e no elemento inferior for definido o tamanho de 
+2em, o elemento inferior terá 32px, ou seja, o dobro.
+
+2rem- Valor numérico com unidade, seu tamanho está 
+relacionado ao elemento root, ou seja, o tamanho 
+padrão da fonte de um navegador é de 16px, se 
+colocarmos o tamanho da fonte de 0.5em estamos 
+definindo que o elemento tem 8px. Lembrando que é 
+possível alterar o tamanho padrão do root no CSS.
+ */

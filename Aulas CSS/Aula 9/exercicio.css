@@ -1,0 +1,31 @@
+.container{
+    background-color: grey;
+    height: 800px;
+    display: flex;
+    /* justify-content: right; */
+
+    /* justify-content: flex-end; */
+    /* align-items: center; */
+}
+.box1 {
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    margin: 10px;
+    background-color: rgb(76, 110, 76);
+}
+
+.box2 { 
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    margin: 10px;
+    background-color: rgb(80, 76, 110);
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    margin: 10px;
+    background-color: rgb(110, 76, 95);
+}

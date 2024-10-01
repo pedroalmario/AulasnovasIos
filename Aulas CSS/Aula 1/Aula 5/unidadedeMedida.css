@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+}
+.box1{
+width: 100vw;
+height: 10vh;
+background-color: plum;
+}
+.box2{
+    border-radius: 200px;
+    width: 100vw;
+    height: 250px;
+    background-color: burlywood;
+    margin: 5px;
+}
+.box3{
+    width: 100vw;
+    height: 10vh;
+    background-color: greenyellow;
+}

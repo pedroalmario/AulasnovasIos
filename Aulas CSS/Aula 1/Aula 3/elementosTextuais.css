@@ -1,0 +1,18 @@
+span{
+    /* font-weight: 500; */
+    font-style:italic;
+}
+strong{
+    font-weight: 100;
+
+}
+article{
+    font-style: oblique;
+    color: orange;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    line-height: 250%;
+
+}
